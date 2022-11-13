@@ -1,0 +1,2 @@
+termcolor
+PyPDF2
