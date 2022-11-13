@@ -1,7 +1,7 @@
 import os
 import pyperclip
 import sys
-from termcolor
+from termcolor import colored
 
 def main():
 	if len(sys.argv) > 0:
