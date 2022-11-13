@@ -1,6 +1,6 @@
 import os
 import platform
-from termcolor
+from termcolor import colored
 
 def main():
     DOWNLOAD_PATH = f'C:\\Users\\{os.getuser()}\\Downloads\\' if 'windows' in platform.\
