@@ -46,7 +46,7 @@ def main():
 		if event == sg.WIN_CLOSED:
 			break
 		if event == 'Shorten':
-			KEY = 'd829f629708e423310a0b56df800716c3f748'
+			KEY = 'YOUR_CUTTLY_API_KEY'
 			url = urllib.parse.quote(values['url'])
 			r = requests.get('http://cutt.ly/api/api.php?key={}&short={}&name={}'.format(KEY, url, get_random_string()))
 			response = json.loads(r.text)
