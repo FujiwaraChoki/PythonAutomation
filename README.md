@@ -1,5 +1,7 @@
 # PythonAutomation
 
+I literally dont care if you're using my cuttly token like bro what 😭
+
 This Repository is a collection of simple Python scripts, which can automate some tedious stuff for you, so you don't have to do the same repeated task anymore.
 
 ## Author
